@@ -19,3 +19,4 @@ cryptography
 cryptokit
 pycryptodome
 tencentcloud-sdk-python
+python-alipay-sdk
